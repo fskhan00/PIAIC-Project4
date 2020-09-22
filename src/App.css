@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.dayLight {
+  background-color: yellow;
+}
+.night {
+  background-color: teal;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
